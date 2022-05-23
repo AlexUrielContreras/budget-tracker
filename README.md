@@ -20,3 +20,9 @@ Link to the deployed App: <a href='https://agile-forest-86640.herokuapp.com/'>Bu
  * Mongoose
 
 ## ScreenShots
+
+# Freshly Deployed App
+![Budget](/public/img/fresh.png "Optional Title")<br>
+
+# App after reconnected to internet
+![Budget](/public/img/reconnect.png "Optional Title")<br>
