@@ -1,0 +1,50 @@
+{
+    "short_name": "Budget",
+    "name": "Budget Tracker",
+    "icons": [
+        {
+            "src": "./icons/icon-72x72.png",
+            "size": "72x72",
+            "type": "img/png"
+        },
+        {
+            "src": "./icons/icon-96x96.png",
+            "size": "96x96",
+            "type": "img/png"
+        },
+        {
+            "src": "./icons/icon-128x128.png",
+            "size": "128x128",
+            "type": "img/png"
+        },
+        {
+            "src": "./icons/icon-144x144.png",
+            "size": "144x144",
+            "type": "img/png"
+        },
+        {
+            "src": "./icons/icon-152x152.png",
+            "size": "152x152",
+            "type": "img/png"
+        },
+        {
+            "src": "./icons/icon-192x192.png",
+            "size": "192x192",
+            "type": "img/png"
+        },
+        {
+            "src": "./icons/icon-384x384.png",
+            "size": "384x384",
+            "type": "img/png"
+        },
+        {
+            "src": "./icons/icon-512x512.png",
+            "size": "512x512",
+            "type": "img/png"
+        }
+    ],
+    "theme_color": "blue",
+    "background_color": "lightblue",
+    "start_url": "index.html",
+    "display": "standalone"
+}
